@@ -1,3 +1,4 @@
+# Atributos actualizados de set de estudiantes (set_limpio_oliva_raimundo):
 1 school - escuela del estudiante (binario: "GP" - Gabriel Pereira o "MS" - Mousinho da Silveira)
 2 sex - sexo del estudiante (binario: "F" - femenino o "M" - masculino)
 3 age - edad del estudiante (numérico: de 15 a 22)
